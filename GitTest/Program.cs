@@ -7,8 +7,13 @@ namespace GitTest
 {
     class Program
     {
+        public static void PrintHello()
+        {
+            Console.WriteLine("Hello");
+        }
         static void Main(string[] args)
         {
+            Program.PrintHello();
         }
     }
 }
