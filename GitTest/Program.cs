@@ -7,6 +7,10 @@ namespace GitTest
 {
     class Program
     {
+        public static void MyMethod()
+        {
+            Console.WriteLine("MyMethod");
+        }
         public static void PrintHello()
         {
             Console.WriteLine("Hello");
