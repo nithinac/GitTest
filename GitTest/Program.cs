@@ -13,7 +13,7 @@ namespace GitTest
         }
         public static void PrintHello()
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello World");
         }
         static void Main(string[] args)
         {
